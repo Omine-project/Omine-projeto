@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Omine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\enum\\nivelacessoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\enum\\nivelacessoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\enum\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\enum\\statusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Omine\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -19,12 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Anime.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Anime.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Anime.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Anime.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Anime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T09:01:27.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusEnum.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Enum\\StatusEnum.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Enum\\StatusEnum.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Enum\\StatusEnum.cs",
+              "RelativeToolTip": "Omine.Domain\\Enum\\StatusEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:52:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NivelAcessoEnum.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Enum\\NivelAcessoEnum.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Enum\\NivelAcessoEnum.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Enum\\NivelAcessoEnum.cs",
+              "RelativeToolTip": "Omine.Domain\\Enum\\NivelAcessoEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:51:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Lista.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Lista.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Lista.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Lista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:27:33.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntidadeBase.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:18:50.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAkwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:12:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Readme.md",
               "DocumentMoniker": "C:\\Omine\\Readme.md",
               "RelativeDocumentMoniker": "Readme.md",
               "ToolTip": "C:\\Omine\\Readme.md",
               "RelativeToolTip": "Readme.md",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-05-12T01:32:38.107Z",
               "EditorCaption": ""

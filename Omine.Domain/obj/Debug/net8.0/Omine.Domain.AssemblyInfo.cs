@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Omine.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af92f14db74137e2c93d55ef646e521d9352bff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Omine.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Omine.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

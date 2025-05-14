@@ -38,20 +38,16 @@ Este projeto adota a arquitetura **Domain-Driven Design (DDD)**, visando uma org
 
 A clareza e a confiabilidade do código serão garantidas através da implementação de **testes unitários**, que servirão também como documentação viva do comportamento de cada componente.
 
-## Banco de Dados
-
-O modelo de dados será persistido no **PostgreSQL**, e um diagrama de entidade-relacionamento (DER) será elaborado para visualizar a estrutura e as relações entre as tabelas.
-
 ## Hospedagem
 
 A hospedagem inicial do projeto será realizada na plataforma **Hostinger**.
 
 ## Próximos Passos e Engajamento Social
 
-Embora o Omine esteja em seus estágios iniciais, reconhecemos o poder da comunidade e das redes sociais para o crescimento e o engajamento. Futuramente, planejamos explorar formas de integrar o Omine com outras plataformas, permitindo que os usuários compartilhem suas listas, rankings e descobertas com seus amigos e seguidores.
+Embora o Omine esteja em seus estágios iniciais, reconheço o poder da comunidade e das redes sociais para o crescimento e o engajamento. Futuramente, planejo explorar formas de integrar o Omine com outras plataformas, permitindo que os usuários compartilhem suas listas, rankings e descobertas com seus amigos e seguidores.   
 
-Fique ligado(a) para futuras atualizações sobre como o Omine se conectará com o mundo social!
+Fique ligado(a) para futuras atualizações sobre como o Omine se conectará com o mundo social!   
 
 ## Contribuições
 
-Este é um projeto **open source** e toda contribuição é bem-vinda! Se você tem interesse em colaborar, fique atento(a) às futuras atualizações deste README com as diretrizes de contribuição. Juntos, podemos construir uma plataforma incrível para a comunidade otaku!
+Este é um projeto pessoal em desenvolvimento. Agradeço o interesse e, no momento, estou focado na construção da base da plataforma.
