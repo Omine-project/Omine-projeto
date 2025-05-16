@@ -1,0 +1,16 @@
+C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Infra.deps.json
+C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Infra.dll
+C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Infra.pdb
+C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Domain.dll
+C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Domain.pdb
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.csproj.AssemblyReference.cache
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.AssemblyInfoInputs.cache
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.AssemblyInfo.cs
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.csproj.CoreCompileInputs.cache
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.sourcelink.json
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.In.FD68D296.Up2Date
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.dll
+C:\Omine\Omine.Infra\obj\Debug\net8.0\refint\Omine.Infra.dll
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.pdb
+C:\Omine\Omine.Infra\obj\Debug\net8.0\ref\Omine.Infra.dll

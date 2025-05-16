@@ -7,19 +7,22 @@ namespace Omine.Domain.Entities
     {
         public string Nome { get; private set; }
         public string Email { get; private set; }
-        public string Senha { get; private set; }
+        private string Senha { get; set; } 
         public DateTime DataNascimento { get; private set; }
         public string Telefone { get; private set; }
         public DateTime DataCadastro { get; private set; }
-        public bool Ativo { get; private set; } // Eu não coloquei isso no diagrama, mas vou deixar para decidir se vai ser utilizado ou não
+        public bool Ativo { get; private set; }
 
         public Usuario(string nome, string email, string senha)
         {
             Nome = nome;
             Email = email;
-            SetSenha(senha); // Usamos o método para garantir o hash
+            SetSenha(senha);
+            DataCadastro = DateTime.UtcNow;
             Ativo = true;
         }
+
+        protected Usuario() { }
 
         public void Atualizar(string nome, string email)
         {
@@ -41,13 +44,11 @@ namespace Omine.Domain.Entities
 
         private string HashPassword(string password)
         {
-            // Implementação real de uma função de hash segura aqui
             return BCrypt.Net.BCrypt.HashPassword(password);
         }
 
         public bool VerificarSenha(string senhaEmTextoPlano)
         {
-            // Aqui você chamaria a função para verificar se a senha em texto plano corresponde ao hash
             return BCrypt.Net.BCrypt.Verify(senhaEmTextoPlano, Senha);
         }
 

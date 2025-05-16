@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "x4k4DzT2P9Y=",
+  "dgSpecHash": "31oBjvXKvq0=",
   "success": true,
   "projectFilePath": "C:\\Omine\\Omine.Domain\\Omine.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\denis\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Omine.Infra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ab7d3c2bee26f088d9674044e775842e1bcfe27")]
 [assembly: System.Reflection.AssemblyProductAttribute("Omine.Infra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Omine.Infra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,8 +8,9 @@ namespace Omine.Domain.Entities
     public class Lista : EntidadeBase<Guid>
     {
         [ForeignKey("Usuario")]
-        public Guid IdUsuario { get; private set; }
+        public virtual Guid IdUsuario { get; private set; }
         public virtual Usuario Usuario { get; private set; }
+
         public virtual string Nome { get; private set; }
         public virtual string Descricao { get; private set; }
         public virtual DateTime DataCriacao { get; private set; }
@@ -24,9 +25,12 @@ namespace Omine.Domain.Entities
             Descricao = descricao;
             DataCriacao = DateTime.UtcNow;
             NivelAcesso = nivelAcesso;
-            Avaliacao = 0.0f; // Inicializa a avaliação como 0
-            Status = StatusEnum.Ativo; // Inicializa o status como ativo
+            Avaliacao = 0.0f; 
+            Status = StatusEnum.Ativo; 
         }
+
+        protected Lista() { }
+
         public void Atualizar(string nome, string descricao, NivelAcessoEnum nivelAcesso)
         {
             Nome = nome;

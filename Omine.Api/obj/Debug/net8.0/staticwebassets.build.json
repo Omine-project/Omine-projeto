@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jpKwiUi5bgMNExonv4f13JtfdkPNLdsiivAFR8S/8NE=",
+  "Source": "Omine.Api",
+  "BasePath": "_content/Omine.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Omine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Omine\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|c:\\omine\\omine.infra\\repositorio\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|solutionrelative:omine.infra\\repositorio\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\genericcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\genericcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EntidadeBase.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:14:23.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Infra\\Repositorio\\Repository.cs",
+              "RelativeDocumentMoniker": "Omine.Infra\\Repositorio\\Repository.cs",
+              "ToolTip": "C:\\Omine\\Omine.Infra\\Repositorio\\Repository.cs",
+              "RelativeToolTip": "Omine.Infra\\Repositorio\\Repository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:13:59.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Readme.md",
-              "DocumentMoniker": "C:\\Omine\\Readme.md",
-              "RelativeDocumentMoniker": "Readme.md",
-              "ToolTip": "C:\\Omine\\Readme.md",
-              "RelativeToolTip": "Readme.md",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-05-12T01:32:38.107Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Program.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Program.cs",
+              "RelativeToolTip": "Omine.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:08:09.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericControllerBase.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\GenericControllerBase.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\GenericControllerBase.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\GenericControllerBase.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\GenericControllerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:07:57.576Z",
               "EditorCaption": ""
             }
           ]

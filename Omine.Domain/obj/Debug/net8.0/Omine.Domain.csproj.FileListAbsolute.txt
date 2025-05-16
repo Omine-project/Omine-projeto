@@ -1,0 +1,13 @@
+C:\Omine\Omine.Domain\bin\Debug\net8.0\Omine.Domain.deps.json
+C:\Omine\Omine.Domain\bin\Debug\net8.0\Omine.Domain.dll
+C:\Omine\Omine.Domain\bin\Debug\net8.0\Omine.Domain.pdb
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.csproj.AssemblyReference.cache
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.AssemblyInfoInputs.cache
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.AssemblyInfo.cs
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.csproj.CoreCompileInputs.cache
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.sourcelink.json
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.dll
+C:\Omine\Omine.Domain\obj\Debug\net8.0\refint\Omine.Domain.dll
+C:\Omine\Omine.Domain\obj\Debug\net8.0\Omine.Domain.pdb
+C:\Omine\Omine.Domain\obj\Debug\net8.0\ref\Omine.Domain.dll

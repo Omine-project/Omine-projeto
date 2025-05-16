@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System;
+using System.ComponentModel.DataAnnotations.Schema;
 using Omine.Domain.Entities.Base;
 
 namespace Omine.Domain.Entities
@@ -7,9 +8,11 @@ namespace Omine.Domain.Entities
     {
         public virtual string Nome { get; private set; }
         public virtual string? Descricao { get; private set; }
+
         [ForeignKey("Genero")]
         public virtual Guid IdGenero { get; private set; }
         public virtual Genero Genero { get; private set; }
+
         public virtual DateTime DataLancamento { get; private set; }
         public virtual string? Estudio { get; private set; }
         public virtual string? UrlImagem { get; private set; }
@@ -32,6 +35,8 @@ namespace Omine.Domain.Entities
             ClassificacaoRanking = classificacaoRanking;
         }
 
+        protected Anime() { }
+
         public void Atualizar(string nome, string? descricao, Guid idGenero, DateTime dataLancamento, string? estudio, string? urlImagem, float avaliacao, int totalEpisodios, int classificacaoIndicativa, int classificacaoRanking)
         {
             Nome = nome;
@@ -46,11 +51,13 @@ namespace Omine.Domain.Entities
             ClassificacaoRanking = classificacaoRanking;
             AtualizarDataAtualizacao();
         }
+
         public void AtualizarAvaliacao(float avaliacao)
         {
             Avaliacao = avaliacao;
             AtualizarDataAtualizacao();
         }
+
         public void AtualizarTotalEpisodios(int totalEpisodios)
         {
             TotalEpisodios = totalEpisodios;
@@ -63,7 +70,7 @@ namespace Omine.Domain.Entities
             AtualizarDataAtualizacao();
         }
 
-        public void GetImagemUrl(string urlImagem)
+        public void AtualizarUrlImagem(string urlImagem)
         {
             UrlImagem = urlImagem;
             AtualizarDataAtualizacao();
