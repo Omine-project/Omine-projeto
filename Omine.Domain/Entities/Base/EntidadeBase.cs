@@ -6,13 +6,13 @@ namespace Omine.Domain.Entities.Base
     {
         [Key]
         public virtual TId Id { get; protected set; }
-        public virtual DateTime CriadoEm { get; private set; }
-        public virtual DateTime AtualizadoEm { get; private set; }
+        public virtual DateTime? CriadoEm { get; private set; }
+        public virtual DateTime? AtualizadoEm { get; private set; }
 
-        protected EntidadeBase()
+        public EntidadeBase()
         {
             CriadoEm = DateTime.UtcNow;
-            AtualizadoEm = DateTime.UtcNow;
+            AtualizadoEm = null;
         }
 
         public void AtualizarDataAtualizacao()

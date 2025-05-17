@@ -6,31 +6,46 @@ namespace Omine.Infra
 {
     public class OmineContext : DbContext
     {
-        private readonly IConfiguration _configuration;
-
-        public OmineContext(DbContextOptions<OmineContext> contextOptions, IConfiguration configuration) : base(contextOptions)
+        public OmineContext(DbContextOptions<OmineContext> contextOptions) : base(contextOptions)
         {
-            _configuration = configuration;
             AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
-        }
-
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            var connectionString = _configuration.GetConnectionString("DefaultConnection");
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseNpgsql(connectionString);
-            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<AnimeLista>()
+                .HasKey(al => new { al.AnimeId, al.ListaId });
+
+            modelBuilder.Entity<AnimeLista>()
+                .HasOne(al => al.Anime)
+                .WithMany()
+                .HasForeignKey(al => al.AnimeId);
+
+            modelBuilder.Entity<AnimeLista>()
+                .HasOne(al => al.Lista)
+                .WithMany()
+                .HasForeignKey(al => al.ListaId);
+
+            modelBuilder.Entity<AnimeGenero>()
+                .HasKey(al => new { al.AnimeId, al.GeneroId });
+
+            modelBuilder.Entity<AnimeGenero>()
+                .HasOne(al => al.Anime)
+                .WithMany()
+                .HasForeignKey(al => al.AnimeId);
+
+            modelBuilder.Entity<AnimeGenero>()
+                .HasOne(al => al.Genero)
+                .WithMany()
+                .HasForeignKey(al => al.GeneroId);
+
             modelBuilder.Entity<Comentario>().ToTable("Comentarios");
             modelBuilder.Entity<Anime>().ToTable("Animes");
             modelBuilder.Entity<Lista>().ToTable("Listas");
             modelBuilder.Entity<Genero>().ToTable("Generos");
             modelBuilder.Entity<Usuario>().ToTable("Usuarios");
-
+            modelBuilder.Entity<AnimeLista>().ToTable("AnimesListas");
+            modelBuilder.Entity<AnimeGenero>().ToTable("AnimesGeneros");
 
             base.OnModelCreating(modelBuilder);
         }
@@ -40,5 +55,8 @@ namespace Omine.Infra
         public DbSet<Lista> Listas { get; set; }
         public DbSet<Genero> Generos { get; set; }
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<AnimeLista> AnimesListas { get; set; }
+        public DbSet<AnimeGenero> AnimesGeneros { get; set; }
     }
+
 }

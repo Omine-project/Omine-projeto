@@ -1,4 +1,5 @@
 C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Infra.deps.json
+C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Infra.runtimeconfig.json
 C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Infra.dll
 C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Infra.pdb
 C:\Omine\Omine.Infra\bin\Debug\net8.0\Omine.Domain.dll
@@ -13,4 +14,5 @@ C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.In.FD68D296.Up2Date
 C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.dll
 C:\Omine\Omine.Infra\obj\Debug\net8.0\refint\Omine.Infra.dll
 C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.pdb
+C:\Omine\Omine.Infra\obj\Debug\net8.0\Omine.Infra.genruntimeconfig.cache
 C:\Omine\Omine.Infra\obj\Debug\net8.0\ref\Omine.Infra.dll

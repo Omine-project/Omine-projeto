@@ -3,20 +3,136 @@
   "WorkspaceRootPath": "C:\\Omine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\animelistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\animelistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\animegenerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\animegenerocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\animecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|c:\\omine\\omine.infra\\repositorio\\compositerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|solutionrelative:omine.infra\\repositorio\\compositerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\animelistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\animelistaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\animeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\animeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|c:\\omine\\omine.infra\\repositorio\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|solutionrelative:omine.infra\\repositorio\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\animegeneroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\animegeneroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|c:\\omine\\omine.infra\\ominecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|solutionrelative:omine.infra\\ominecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|c:\\omine\\omine.infra\\omine.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|solutionrelative:omine.infra\\omine.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\comentariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\controllers\\genericcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\controllers\\genericcontrollerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\interface\\icompositerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\interface\\icompositerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\comentarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\listaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\listaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\generoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|c:\\omine\\omine.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EA056E0-83C8-4A94-B1FE-D094228DED8E}|Omine.Api\\Omine.Api.csproj|solutionrelative:omine.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|c:\\omine\\omine.infra\\migrations\\20250517114011_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70BBF32-9B8E-416A-84A2-7EA09295FF0A}|Omine.Infra\\Omine.Infra.csproj|solutionrelative:omine.infra\\migrations\\20250517114011_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\animelista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\animelista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\animegenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\animegenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\comentario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\anime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|c:\\omine\\omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C6D480C-3B18-4267-B2E6-EA36802B36A2}|Omine.Domain\\Omine.Domain.csproj|solutionrelative:omine.domain\\entities\\base\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +142,435 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EntidadeBase.cs",
-              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
-              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
-              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
-              "RelativeToolTip": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CompositeRepository.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Infra\\Repositorio\\CompositeRepository.cs",
+              "RelativeDocumentMoniker": "Omine.Infra\\Repositorio\\CompositeRepository.cs",
+              "ToolTip": "C:\\Omine\\Omine.Infra\\Repositorio\\CompositeRepository.cs",
+              "RelativeToolTip": "Omine.Infra\\Repositorio\\CompositeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:14:23.747Z",
+              "WhenOpened": "2025-05-17T12:07:09.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimeGeneroController.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\AnimeGeneroController.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\AnimeGeneroController.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\AnimeGeneroController.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\AnimeGeneroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:29:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimeGeneroService.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\AnimeGeneroService.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\AnimeGeneroService.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\AnimeGeneroService.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\AnimeGeneroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:11:29.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Omine\\Omine.Infra\\Repositorio\\Repository.cs",
-              "RelativeDocumentMoniker": "Omine.Infra\\Repositorio\\Repository.cs",
-              "ToolTip": "C:\\Omine\\Omine.Infra\\Repositorio\\Repository.cs",
-              "RelativeToolTip": "Omine.Infra\\Repositorio\\Repository.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Title": "AnimeController.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\AnimeController.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\AnimeController.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\AnimeController.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\AnimeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:13:59.124Z",
+              "WhenOpened": "2025-05-17T12:22:08.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AnimeListaController.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\AnimeListaController.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\AnimeListaController.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\AnimeListaController.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\AnimeListaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:28:27.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnimeService.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\AnimeService.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\AnimeService.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\AnimeService.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\AnimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:56:12.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimeListaService.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\AnimeListaService.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\AnimeListaService.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\AnimeListaService.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\AnimeListaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:00:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OmineContext.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Infra\\OmineContext.cs",
+              "RelativeDocumentMoniker": "Omine.Infra\\OmineContext.cs",
+              "ToolTip": "C:\\Omine\\Omine.Infra\\OmineContext.cs",
+              "RelativeToolTip": "Omine.Infra\\OmineContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:15:18.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Omine\\Omine.Api\\Program.cs",
               "RelativeDocumentMoniker": "Omine.Api\\Program.cs",
               "ToolTip": "C:\\Omine\\Omine.Api\\Program.cs",
               "RelativeToolTip": "Omine.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:08:09.552Z",
+              "WhenOpened": "2025-05-17T12:12:21.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "GeneroController.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\GeneroController.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\GeneroController.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\GeneroController.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\GeneroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:24:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListaController.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\ListaController.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\ListaController.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\ListaController.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\ListaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:26:50.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Omine.Infra",
+              "DocumentMoniker": "C:\\Omine\\Omine.Infra\\Omine.Infra.csproj",
+              "RelativeDocumentMoniker": "Omine.Infra\\Omine.Infra.csproj",
+              "ToolTip": "C:\\Omine\\Omine.Infra\\Omine.Infra.csproj",
+              "RelativeToolTip": "Omine.Infra\\Omine.Infra.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-17T12:44:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComentarioController.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\ComentarioController.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\ComentarioController.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\ComentarioController.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\ComentarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:23:59.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "GenericControllerBase.cs",
               "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\GenericControllerBase.cs",
               "RelativeDocumentMoniker": "Omine.Api\\Controllers\\GenericControllerBase.cs",
               "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\GenericControllerBase.cs",
               "RelativeToolTip": "Omine.Api\\Controllers\\GenericControllerBase.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwD0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:20:31.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Omine.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Omine\\Omine.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Omine.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:17:06.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICompositeRepository.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Interface\\ICompositeRepository.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Interface\\ICompositeRepository.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Interface\\ICompositeRepository.cs",
+              "RelativeToolTip": "Omine.Domain\\Interface\\ICompositeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:08:02.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\Service.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\Service.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\Service.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\Service.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:01:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Omine.Domain\\Interface\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T00:07:57.576Z",
+              "WhenOpened": "2025-05-17T12:04:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ComentarioService.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\ComentarioService.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\ComentarioService.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\ComentarioService.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\ComentarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:59:21.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ListaService.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\ListaService.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\ListaService.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\ListaService.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\ListaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:58:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GeneroService.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\GeneroService.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\GeneroService.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\GeneroService.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\GeneroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:57:17.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "Omine.Domain\\Service\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:54:12.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Omine.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Omine\\Omine.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Omine.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T11:48:47.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250517114011_Initial.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Infra\\Migrations\\20250517114011_Initial.cs",
+              "RelativeDocumentMoniker": "Omine.Infra\\Migrations\\20250517114011_Initial.cs",
+              "ToolTip": "C:\\Omine\\Omine.Infra\\Migrations\\20250517114011_Initial.cs",
+              "RelativeToolTip": "Omine.Infra\\Migrations\\20250517114011_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:40:12.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Omine\\Omine.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Omine.Api\\appsettings.json",
+              "ToolTip": "C:\\Omine\\Omine.Api\\appsettings.json",
+              "RelativeToolTip": "Omine.Api\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T11:31:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:14:47.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Lista.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Lista.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Lista.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Lista.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:14:37.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Genero.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Genero.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Genero.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:14:33.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Comentario.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Comentario.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Comentario.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Comentario.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Comentario.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:12:17.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AnimeGenero.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\AnimeGenero.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\AnimeGenero.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\AnimeGenero.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\AnimeGenero.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:05:03.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AnimeLista.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\AnimeLista.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\AnimeLista.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\AnimeLista.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\AnimeLista.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:04:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Anime.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Anime.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Anime.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Anime.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Anime.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvwwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:46:29.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EntidadeBase.cs",
+              "DocumentMoniker": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "RelativeDocumentMoniker": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "ToolTip": "C:\\Omine\\Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "RelativeToolTip": "Omine.Domain\\Entities\\Base\\EntidadeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:04:32.761Z",
               "EditorCaption": ""
             }
           ]

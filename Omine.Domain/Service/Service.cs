@@ -39,7 +39,6 @@ namespace Omine.Domain.Service
             {
                 await _repository.DeleteAsync(entity);
             }
-            // Poderia adicionar tratamento de erro caso a entidade não exista
         }
     }
 }
